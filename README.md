@@ -11,6 +11,6 @@
 2. Program akan memproses bilangan terbesar dari 3 buah bilangan tersebut.
 3. jika bilangan pertama lebih besar dari bilangan ke-dua dan ke tiga maka outputnya akan keluar bilangan pertama dan begitu juga seterusnya.
 4. Contoh Hasilnya seperti di gambar berikut.
-# ![Gambar 2](hasil.PNG) 
+# ![Gambar 2](akhir.PNG) 
 
 
