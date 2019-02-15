@@ -12,3 +12,4 @@
 3. jika bilangan pertama lebih besar dari bilangan ke-dua dan ke tiga maka outputnya akan keluar bilangan pertama dan begitu juga seterusnya.
 4. Contoh Hasilnya seperti di gambar berikut.
 # ![Gambar 2](hasil.PNG) 
+
